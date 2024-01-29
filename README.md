@@ -1,2 +1,3 @@
-<h3> this is my byop project</h3>
-<href=https://fasttext.cc/docs/en/crawl-vectors.html> download the fasttext model (english) by clicking on english bin link 
+<h3>This is my BYOP project</h3>
+<p>Download the FastText model (English) by clicking on the <a href="https://fasttext.cc/docs/en/crawl-vectors.html">English bin link</a>.</p>
+
