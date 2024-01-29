@@ -4,3 +4,4 @@
 <p> run the flask app on your local server mine was running on 127.0.0.1:5000 </p>
 <p> to load chrome extension in chrome simply turn on developer mode on chrome and load unpacked the chrome file</p>
 <p> it works better on foreign news batter due to the dataset containing mainly foreign news</p>
+<p>       here is the  <a href="https://colab.research.google.com/drive/1hDxQOcsny1Uy63JCFyYnAcMlIZY-EfG-?usp=sharing">https://colab.research.google.com/drive/1hDxQOcsny1Uy63JCFyYnAcMlIZY-EfG-?usp=sharing </a></p>
